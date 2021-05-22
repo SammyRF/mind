@@ -1,4 +1,3 @@
-#fix2
 import random
 class Mind:
     def __init__(self, lbds, size = 19):
